@@ -1,0 +1,87 @@
+
+
+
+Rank
+PlayerTeam Points
+Games
+Avg
+
+
+
+1Cam NewtonCAR389.11624.3
+2Tom BradyNE343.71621.5
+3Russell WilsonSEA336.41621.0
+4Blake BortlesJAC316.11619.8
+5Carson PalmerFA309.21619.3
+6Drew BreesNO306.51520.4
+7Aaron RodgersGB301.31618.8
+8Kirk CousinsMIN293.51618.3
+9Matthew StaffordDET289.71618.1
+10Eli ManningNYG287.61618.0
+11Ryan FitzpatrickTB285.11617.8
+12Philip RiversLAC284.31617.8
+13Jameis WinstonTB275.21617.2
+14Derek CarrOAK273.31617.1
+15Alex SmithWAS271.01616.9
+16Tyrod TaylorCLE270.61419.3
+17Ryan TannehillMIA257.31616.1
+18Andy DaltonCIN244.11318.8
+19Matt RyanATL233.91614.6
+20Ben RoethlisbergerPIT227.61219.0
+21Jay CutlerFA226.31515.1
+22Marcus MariotaTEN210.11217.5
+23Teddy BridgewaterNO200.41612.5
+24Sam BradfordARI194.81413.9
+25Brian HoyerNE166.61115.1
+26Joe FlaccoBAL162.11016.2
+27Josh McCownNYJ132.1816.5
+28Andrew LuckIND130.8718.7
+29Blaine GabbertTEN129.8816.2
+30Brock OsweilerMIA116.7814.6
+31Colin KaepernickFA110.3912.3
+32Nick FolesPHI95.9118.7
+33Johnny ManzielFA95.0910.6
+34Peyton ManningFA91.3109.1
+35Matt HasselbeckFA91.2811.4
+36Ryan MallettFA71.0710.1
+37Matt CasselDET66.988.4
+38Brandon WeedenHOU66.4611.1
+39AJ McCarronOAK55.377.9
+40Case KeenumDEN43.658.7
+41Zach MettenbergerFA42.276.0
+42Tony RomoFA40.6410.2
+43EJ ManuelFA38.849.7
+44Jimmy ClausenFA33.148.3
+45Kellen MooreFA33.0311.0
+46Mark SanchezFA32.8310.9
+47Michael VickFA30.756.1
+48Matt SchaubATL26.6213.3
+49T.J. YatesFA22.945.7
+50Landry JonesFA22.173.2
+51Geno SmithLAC20.0120.0
+52Austin DavisFA19.236.4
+53Luke McCownFA11.425.7
+54Josh FreemanFA10.4110.4
+55Dan OrlovskyFA10.025.0
+56Matt McGloinFA9.724.9
+57Colt McCoyWAS8.818.8
+58Alex TanneyNYG8.018.0
+59Ryan NassibFA6.716.7
+60Kellen ClemensFA6.423.2
+61Ryan LindleyFA6.316.3
+624.122.1
+63Charlie WhitehurstFA4.041.0
+64B.J. DanielsFA2.750.5
+651.611.6
+66Derek AndersonFA1.230.4
+66Sean MannionLAR1.211.2
+67Tarvaris JacksonFA0.740.2
+68Matt MooreFA0.410.4
+69Shaun HillFA0.130.0
+70Chase DanielCHI0.020.0
+71Scott TolzienFA-0.120.0
+72Trevor SiemianMIN-0.11-0.1
+73Jimmy GaroppoloSF-0.34-0.1
+74Drew StantonCLE-1.16-0.2
+75Sean RenfreeFA-2.02-1.0
+
