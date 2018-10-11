@@ -2,9 +2,9 @@ from sklearn import neighbors, datasets
 from sklearn import model_selection, metrics
 from sklearn.cross_validation import train_test_split
 #  now load the dataset
-irisdataset = datasets.load_iris()
-x = irisdataset.data
-y = irisdataset.target
+digitsdataset = datasets.load_digits()
+x = digitsdataset.data
+y = digitsdataset.target
 # train and test of data
 x_train, x_test, y_train, y_test = model_selection.train_test_split(x, y, random_state=22, test_size=0.2)
 # for k=1 neighbors
