@@ -14,7 +14,7 @@ from sklearn.model_selection import train_test_split
 df = pd.read_csv('japanemg.csv')
 kc_data = pd.DataFrame(df, columns=[
     'Emigrants','land','changelands','averageArea','labors','immigrantExistence'])
-label_col = 'Elevation'
+label_col = 'Emigrants'
 print(kc_data.describe())
 
 
